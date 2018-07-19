@@ -8,6 +8,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <section>
+        <div class="container-fluid">
+            <h1>Welcome At the Center</h1>
+            <p>center de commande de jouer</p>
+            
+        </div>
+    </section>
 </body>
 </html>
